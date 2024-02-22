@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @devleoniiiid
+- 👀 I'm interested in hardware and software development
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on a ai phone
